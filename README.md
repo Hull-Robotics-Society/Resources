@@ -5,6 +5,8 @@ A list of curated resources that robotics students and society members may find 
 * [Society Tutorials](#society-tutorials)
 * [Related](#related)
 
+---
+
 ### Society Tutorials
 **Please visit [Hull-Robotics-Society/Tutorials](https://github.com/Hull-Robotics-Society/Tutorials)**
 
